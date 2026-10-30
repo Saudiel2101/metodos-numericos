@@ -1,0 +1,10 @@
+*.pdf
+*.jpg
+*.jpeg
+*.png
+*.sh
+conda.org
+ganancia.ods
+WhatsApp*
+Miniconda3-*
+__pycache__/
